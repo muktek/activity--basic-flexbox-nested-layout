@@ -22,9 +22,9 @@ atom .
 Hints + Notes: 
 - the HTML is already created so you do not need to alter the `index.html` file.  
 
-- The `<div class="mini-items-container">` has a width of 100%`
+- The `<div class="mini-items-container">` has a width of 100%
 
-- <div class="big-items">` have widths of 20% 
+- `<div class="big-items">` have widths of 20% 
 
 - Some properties you may consider: `display: flex`,  `flex-wrap`, `justify-content`, `flex-basis`.
 
