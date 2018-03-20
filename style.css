@@ -12,7 +12,7 @@
 }
 
 body{
-    font-family: Lucida Sans Typewriter, Lucida Console, monaco, monospace;
+    font-family: monospace;
     font-size: 0.9em;
     line-height: 1.4;
     margin: 0;
@@ -38,5 +38,4 @@ img {
 .content-container{
   max-width: 800px;
   margin: auto;
-
 }
